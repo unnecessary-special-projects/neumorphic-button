@@ -66,7 +66,7 @@ export const App: React.FC = () => {
 
       <div 
         className={ css.app_credits }>
-        <a href="https://github.com/your-org/your-repo" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/unnecessary-special-projects/neumorphic-button" target="_blank" rel="noopener noreferrer">
           { "Neumorphic Button" }
         </a>
         <p>
