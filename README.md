@@ -6,7 +6,7 @@ Built with **React** and **CSS**.
 <img src="./design.jpeg" alt="Button Preview" width="400" />
 
 ## Demo 
-👉 [Play with the button](https://x.com/speytdesign/status/1969147550134345736)  
+👉 [Play with the button](https://unnecessary-special-projects.github.io/neumorphic-button)  
 
 ## Inspiration
 
