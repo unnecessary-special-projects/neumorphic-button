@@ -1,0 +1,26 @@
+.skeuomorphicRadio {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  position: relative;
+  background: #8a8a8a;
+}
+
+.skeuomorphicRadio a {
+  color: #9d4700;
+}
+
+.skeuomorphicRadio_credits {
+  position: absolute;
+  bottom: 5%;
+  text-align: center;
+  color: #1b1b1b;
+}
+
+.skeuomorphicRadio_credits p {
+  margin: 0;
+  font-size: 13px;
+}

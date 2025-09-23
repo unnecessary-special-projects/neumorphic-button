@@ -1,0 +1,28 @@
+.neumorphicButtons {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  position: relative;
+}
+
+.neumorphicButtons_buttonGroup {
+  display: flex;
+  gap: 12px;
+  padding: 12px;
+  border-radius: 18px;
+  background: #1b1b1b;
+}
+
+.neumorphicButtons_credits {
+  position: absolute;
+  bottom: 5%;
+  text-align: center;
+}
+
+.neumorphicButtons_credits p {
+  margin: 0;
+  font-size: 13px;
+}
